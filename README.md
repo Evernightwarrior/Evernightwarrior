@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Evernightwarrior/Evernightwarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Header Image]([https://raw.githubusercontent.com/Evernightwarrior/Evernightwarrior/main/header-image.png](https://www.canva.com/design/DAGGmuqF-p0/GdyJ3dslb2VYHmKfG4rlTA/view?utm_content=DAGGmuqF-p0&utm_campaign=designshare&utm_medium=link&utm_source=editor)) 
@@ -47,4 +47,4 @@ Welcome to my GitHub profile! I'm a **beginner in the world of programming**, ex
 
 
 
--->
+
