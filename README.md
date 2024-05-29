@@ -3,13 +3,13 @@
 
 **Evernightwarrior/Evernightwarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Header Image]([https://raw.githubusercontent.com/Evernightwarrior/Evernightwarrior/main/header-image.png](https://www.canva.com/design/DAGGmuqF-p0/GdyJ3dslb2VYHmKfG4rlTA/view?utm_content=DAGGmuqF-p0&utm_campaign=designshare&utm_medium=link&utm_source=editor)) 
+![Header Image](https://github.com/Evernightwarrior/Evernightwarrior/assets/92269453/81e6c1ac-8c4d-4a53-b8d8-64011d8f228c)
 
 # Hi there, I'm Kushagra Nayan! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Evernightwarrior&color=blue)
 
-Welcome to my GitHub profile! I'm a **beginner in the world of programming**, excited to learn and grow in the field of Computer Science. 🎓
+Welcome to my GitHub profile! I am a passionate enthusiast in Machine Learning, AI, and Java development, eager to learn and grow. 🎓
 
 ## About Me
 
